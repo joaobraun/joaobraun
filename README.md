@@ -4,7 +4,7 @@ I'm a BR student currently enrolled in Systems Information at Universidade Cruze
 
 ### 🔎 I’m currently learning ##
 
-- Frontend: <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/react.svg" alt="react" style="height:15px;" /> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/javascript.svg" alt="javascript" style="height:15px;" /> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/npm.svg" alt="react" style="height:15px;"/> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/html-5.svg" alt="html" style="height:20px;"/> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/css-3.svg" alt="css3" style="height:20px;"/>
+- Frontend: <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/react.svg" alt="react" style="height:15px;" /> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/javascript.svg" alt="javascript" style="height:15px;" /> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/npm.svg" alt="react" style="height:15px;"/> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/html-5.svg" alt="html" style="height:19px;"/> <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/css-3.svg" alt="css3" style="height:19px;"/>
 
 - Backend: <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/nodejs-icon.svg" alt="node" style="height: 15px;"/> <img src="https://w7.pngwing.com/pngs/846/87/png-transparent-mean-solution-stack-express-js-node-js-javascript-github-text-trademark-logo-thumbnail.png" alt="expressjs" style="height:15px;"/>
 
