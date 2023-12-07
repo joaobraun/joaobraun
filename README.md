@@ -8,5 +8,5 @@ I'm a BR student currently enrolled in Systems Information at Universidade Cruze
 
 - DB: <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/mysql.svg" alt="mysql" style="height:15px;"/> 
 
-- On the side: 🎮 I also like game developing with <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/c-plusplus.svg" alt="c++" style="height:16px;" /> especially 2D platformers (<a href="https://www.raylib.com">Raylib</a> mostly) and learning some <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/rust.svg" alt="rust" style="height:20px; background-color: #fff;"/>
+- On the side: 🎮 I also like game developing with <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/c-plusplus.svg" alt="c++" style="height:16px;" /> especially 2D platformers (<a href="https://www.raylib.com">Raylib</a> mostly) and learning some <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/rust.svg" alt="rust" style="height:16px;"/>
 
