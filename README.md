@@ -11,6 +11,5 @@ I'm a BR student currently enrolled in Systems Information at Universidade Cruze
 - ### Database: <a href="https://dev.mysql.com/doc/"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/mysql.svg" alt="mysql" style="height:20px;"/></a> <a href="https://www.postgresql.org/docs/current/"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/postgresql.svg" alt="mysql" style="height:20px;"/></a>
 ---
 
-- 🖥 I'm a <a href="https://code.visualstudio.com/download"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/visual-studio-code.svg" style="height:16px;"/></a> user
-- 🎮 I'm also a gamer <a href="https://steamcommunity.com/id/madvillain___/"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/steam.svg" style="height:16px;"/></a>
+- 🖥 I'm a <a href="https://code.visualstudio.com/download"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/visual-studio-code.svg" style="height:16px;"/></a> user and also a gamer <a href="https://steamcommunity.com/id/madvillain___/"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/steam.svg" style="height:16px;"/></a>
 
