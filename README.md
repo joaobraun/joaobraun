@@ -12,6 +12,5 @@ I'm a BR student currently enrolled in Systems Information at Universidade Cruze
 ---
 
 - 🖥 I'm a <a href="https://code.visualstudio.com/download"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/visual-studio-code.svg" style="height:16px;"/></a> user
-- 🎮 I also like game developing with <a href="https://devdocs.io/cpp/"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/c-plusplus.svg" alt="c++" style="height:16px;" /></a> especially 2D platformers (<a href="https://www.raylib.com">Raylib</a> mostly);
-- 🧠 And sometimes I try <a href=""><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/haskell.svg" style="height: 10px;"></a>
+- 🎮 I'm also a gamer <a href="https://steamcommunity.com/id/madvillain___/"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/steam.svg" style="height:16px;"/></a>
 
